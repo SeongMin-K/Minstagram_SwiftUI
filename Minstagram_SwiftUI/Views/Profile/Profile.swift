@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  Profile.swift
 //  Minstagram_SwiftUI
 //
 //  Created by SeongMinK on 2021/11/19.
@@ -7,14 +7,15 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct Profile: View {
     var body: some View {
-        Home()
+        Text("Profile")
+            .font(.headline)
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct Profile_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        Profile()
     }
 }

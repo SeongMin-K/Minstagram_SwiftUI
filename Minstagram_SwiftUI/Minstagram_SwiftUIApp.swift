@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct Minstagram_SwiftUIApp: App {
+    @StateObject private var userData = UserData()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView().environmentObject(userData)
         }
     }
 }

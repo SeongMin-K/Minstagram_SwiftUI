@@ -1,0 +1,50 @@
+[
+    {
+        "username": "kings_a_man",
+        "id": 1001,
+        "hasNewStory": true,
+        "imageName": "kings_a_man"
+    },
+    {
+        "username": "99uggu",
+        "id": 1002,
+        "hasNewStory": true,
+        "imageName": "99uggu"
+    },
+    {
+        "username": "sina___kim",
+        "id": 1003,
+        "hasNewStory": false,
+        "imageName": "sina___kim"
+    },
+    {
+        "username": "gunwo_ong",
+        "id": 1004,
+        "hasNewStory": true,
+        "imageName": "gunwo_ong"
+    },
+    {
+        "username": "wwls_fe",
+        "id": 1005,
+        "hasNewStory": true,
+        "imageName": "wwls_fe"
+    },
+    {
+        "username": "nggoong",
+        "id": 1006,
+        "hasNewStory": false,
+        "imageName": "nggoong"
+    },
+    {
+        "username": "handmade__kim",
+        "id": 1007,
+        "hasNewStory": true,
+        "imageName": "handmade__kim"
+    },
+    {
+        "username": "1997jaehyung",
+        "id": 1008,
+        "hasNewStory": false,
+        "imageName": "1997jaehyung"
+    }
+]
